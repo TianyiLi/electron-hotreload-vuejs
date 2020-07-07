@@ -9,7 +9,7 @@
   "dependencies": {
     "@types/electron": "^1.4.38",
     "@types/vue": "^2.0.0",
-    "electron": "^1.6.10",
+    "electron": "^7.2.4",
     "electron-prebuilt": "^1.4.13",
     "electron-reload": "^1.2.0",
     "ipc-promise": "^0.1.3",
